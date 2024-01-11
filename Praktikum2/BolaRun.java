@@ -5,10 +5,10 @@ import java.util.Scanner;
 public class BolaRun {
     public static void main(String[] args) {
 
-        double inputJariJari;
-
         Scanner input = new Scanner(System.in);
         BolaPraktikum run = new BolaPraktikum();
+
+        double inputJariJari;
 
         inputJariJari = input.nextDouble();
         run.setJariJari(inputJariJari);

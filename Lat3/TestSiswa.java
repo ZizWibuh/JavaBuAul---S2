@@ -1,12 +1,25 @@
 package JavaBuAul.Lat3;
 
+import java.util.Scanner;
+
 public class TestSiswa {
     public static void main(String[] args) {
     EncapSiswa siswa = new EncapSiswa();
-    siswa.setName("Aziz");
-    siswa.setAge(16);
-    siswa.setAddress("Malang");
+    Scanner main = new Scanner(System.in);
+
+    System.out.println("Masukkan Nama: ");
+    String name = main.next();
+    System.out.println("Masukkan Umur: ");
+    int age = main.nextInt();
+    System.out.println("Masukan Alamat: ");
+    String address = main.next();
+
+    siswa.setName(name);
+    siswa.setAge(age);
+    siswa.setAddress(address);
     
-    System.out.println("Nama: "+ siswa.getName() + "\nAlamat "+ siswa.getAddress() + "\nBerumur " + siswa.getAge() + " Tahun");
+    System.out.println("Nama: "+ siswa.getName() + "\nBerumur: "+ siswa.getAge() + " Tahun" + "\nAlamat: " + siswa.getAddress());
+
+    main.close();
     }
 }

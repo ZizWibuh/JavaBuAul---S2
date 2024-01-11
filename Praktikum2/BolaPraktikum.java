@@ -6,7 +6,7 @@ public class BolaPraktikum {
 
     //constractor
     public BolaPraktikum() {
-        jariJari = 0;
+        this.jariJari = 0;
     }
 
     //Setter (Mutator method)

@@ -7,11 +7,11 @@ public class TestSiswa {
     EncapSiswa siswa = new EncapSiswa();
     Scanner main = new Scanner(System.in);
 
-    System.out.println("Masukkan Nama: ");
+    System.out.print("Masukkan Nama: ");
     String name = main.next();
-    System.out.println("Masukkan Umur: ");
+    System.out.print("Masukkan Umur: ");
     int age = main.nextInt();
-    System.out.println("Masukan Alamat: ");
+    System.out.print("Masukan Alamat: ");
     String address = main.next();
 
     siswa.setName(name);

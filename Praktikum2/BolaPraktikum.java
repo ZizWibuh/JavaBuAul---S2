@@ -30,19 +30,4 @@ public class BolaPraktikum {
     public double showVolume() {
         return (4/3) * Math.PI * Math.pow(jariJari, 3);
     }
-
-    public static void main(String[] args) {
-        double jariJariVar = 3;
-
-        BolaPraktikum main = new BolaPraktikum();
-        System.out.println("Diameter: " + main.showDiameter());
-        System.out.println("Luas Permukaan: " + main.showLuasPermukaan());
-        System.out.println("Volume: " + main.showVolume());
-        
-        main.setJariJari(jariJariVar);
-        System.out.println("After");
-        System.out.println("Diameter: " + main.showDiameter());
-        System.out.println("Luas Permukaan: " + main.showLuasPermukaan());
-        System.out.println("Volume: " + main.showVolume());
-    }
 }

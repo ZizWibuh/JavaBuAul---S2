@@ -1,4 +1,4 @@
-package JavaBuAul.Lat3;
+package JavaBuAul.Modul2.Lat3;
 
 import java.util.Scanner;
 

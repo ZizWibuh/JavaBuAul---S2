@@ -1,4 +1,4 @@
-package JavaBuAul.Praktikum1;
+package JavaBuAul.Modul2.Praktikum1;
 
 public class UjiBusPraktikum {
     public static void main(String[] args) {

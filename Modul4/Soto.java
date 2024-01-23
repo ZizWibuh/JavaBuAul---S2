@@ -6,4 +6,8 @@ public class Soto extends Food {
         int harga = 15000;
         System.out.println("Harga Soto: " + harga);
     }
+
+    public void JenisMakanan(String jenis) {
+        super.JenisMakanan(jenis);
+    }
 }

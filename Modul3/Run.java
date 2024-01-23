@@ -18,5 +18,7 @@ public class Run {
         run.tampilNama();
         System.out.println("Gaji pokok: " + run.gaji(5000000));
         System.out.println("Tunjangan: " + run.gaji(2500000));
+
+        input.close();
     }
 }

@@ -1,4 +1,4 @@
-package JavaBuAul.Modul2.Lat3;
+package Modul2.Lat3;
 
 public class EncapSiswa {
     private String name;

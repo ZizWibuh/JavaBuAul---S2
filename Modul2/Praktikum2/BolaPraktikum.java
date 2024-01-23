@@ -1,4 +1,4 @@
-package JavaBuAul.Modul2.Praktikum2;
+package Modul2.Praktikum2;
 
 public class BolaPraktikum {
     //declaration variable

@@ -1,4 +1,4 @@
-package JavaBuAul.Modul3;
+package Modul3;
 
 public class Admin extends Karyawan {
     //Overriding

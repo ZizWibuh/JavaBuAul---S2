@@ -1,4 +1,4 @@
-package JavaBuAul.Modul3;
+package Modul3;
 
 import java.util.Scanner;
 

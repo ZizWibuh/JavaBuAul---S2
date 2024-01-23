@@ -1,4 +1,4 @@
-package JavaBuAul.Modul2.Lat1;
+package Modul2.Lat1;
 
 public class Bus {
     public int penumpang, maxpenumpang;

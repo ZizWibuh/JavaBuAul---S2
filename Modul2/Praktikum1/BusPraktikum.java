@@ -1,4 +1,4 @@
-package JavaBuAul.Modul2.Praktikum1;
+package Modul2.Praktikum1;
 
 public class BusPraktikum {
     //declaration variable / attribute

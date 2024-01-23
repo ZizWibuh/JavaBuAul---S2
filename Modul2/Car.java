@@ -1,4 +1,4 @@
-package JavaBuAul.Modul2;
+package Modul2;
 
 public class Car {
     private String merk;

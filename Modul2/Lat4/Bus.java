@@ -1,4 +1,4 @@
-package JavaBuAul.Modul2.Lat4;
+package Modul2.Lat4;
 
 public class Bus {
     //declaration variable

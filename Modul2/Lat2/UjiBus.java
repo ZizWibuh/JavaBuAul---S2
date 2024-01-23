@@ -1,4 +1,4 @@
-package JavaBuAul.Modul2.Lat2;
+package Modul2.Lat2;
 
  public class UjiBus {
     public static void main(String[] args) {
